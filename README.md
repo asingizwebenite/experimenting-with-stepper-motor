@@ -1,4 +1,4 @@
-🌀 Stepper Motor Control using Arduino and 28BYJ-48
+#🌀 Stepper Motor Control using Arduino and 28BYJ-48
 📖 Description
 
 This project controls a 28BYJ-48 stepper motor using an Arduino and a ULN2003 driver board.
